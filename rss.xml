@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Season In The Life]]></title>
+        <description><![CDATA[A Season In The Life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 01:07:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/051c63ba-fb50-424f-8f55-3a939ebc14e7.jpg">]]></description>
+            <link>undefined50d1a2a2-c89f-42a1-917b-49d88e0ecc73/index.html</link>
+            <guid isPermaLink="false">50d1a2a2-c89f-42a1-917b-49d88e0ecc73</guid>
+            <pubDate>Tue, 12 Jan 2016 01:07:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
